@@ -1,18 +1,20 @@
 import type { Metadata } from "next";
 import "./globals.css";
 
-export const metadata: Metadata = {
+export const metadata = {
   title: "Moteeullah Azmi | Full Stack Developer",
   description:
-    "Full Stack Developer building modern web applications. Portfolio, projects, and GitHub contributions.",
+    "Full Stack Developer building business websites, e-commerce platforms, and scalable web applications.",
   keywords: [
     "Full Stack Developer",
-    "React Developer",
     "Next.js Developer",
+    "Freelance Web Developer",
+    "React Developer",
     "Web Developer Portfolio",
   ],
   authors: [{ name: "Moteeullah Azmi" }],
 };
+
 
 export default function RootLayout({
   children,

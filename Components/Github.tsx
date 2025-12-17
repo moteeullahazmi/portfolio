@@ -13,7 +13,7 @@ export function Github() {
       <div className="border border-zinc-800 rounded-lg p-3">
         <GitHubCalendar
           username="moteeullahazmi"
-          blockSize={8}   // 👈 Laptop / Tablet fit
+          blockSize={8}   
           blockMargin={1}
           fontSize={14}
         />
